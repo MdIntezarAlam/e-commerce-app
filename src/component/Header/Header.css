@@ -1,0 +1,21 @@
+.container{
+   display: flex;
+   position: relative;
+   justify-content: center;
+   align-items: center;
+   padding-bottom:  2%;
+
+}
+.container hr{
+    position: absolute;
+    left: 0;
+    width: 124px;
+    border-radius: 1px solid #8C1CD1;
+}
+.container h1{
+    color: blue
+}
+.container  h1{
+    margin-top: 10%;
+    font-size: 45px;
+}
